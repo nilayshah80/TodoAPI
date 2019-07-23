@@ -1,0 +1,14 @@
+D:\Project\ToDo\gittest\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.deps.json
+D:\Project\ToDo\gittest\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.json
+D:\Project\ToDo\gittest\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.dev.json
+D:\Project\ToDo\gittest\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.dll
+D:\Project\ToDo\gittest\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.pdb
+D:\Project\ToDo\gittest\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csprojAssemblyReference.cache
+D:\Project\ToDo\gittest\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csproj.CoreCompileInputs.cache
+D:\Project\ToDo\gittest\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cache
+D:\Project\ToDo\gittest\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cs
+D:\Project\ToDo\gittest\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfoInputs.cache
+D:\Project\ToDo\gittest\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfo.cs
+D:\Project\ToDo\gittest\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorTargetAssemblyInfo.cache
+D:\Project\ToDo\gittest\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.dll
+D:\Project\ToDo\gittest\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.pdb
